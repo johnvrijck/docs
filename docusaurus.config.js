@@ -66,7 +66,8 @@ module.exports = {
             },
             {
               label: 'Discord',
-              href: 'https://discord.gg/MnaM4mqq',
+              href: 'https://discord.com/invite/mantanetwork
+',
             },
           ],
         },
